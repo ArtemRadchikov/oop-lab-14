@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student faculty="ФИТ">
+    <course>2</course>
+    <group>3</group>
+    <Name>Катя</Name>
+    <Surname>Щепина</Surname>
+  </Student>
+  <Student faculty="ФИТ">
+    <course>2</course>
+    <group>3</group>
+    <Name>Артем</Name>
+    <Surname>Радчиков</Surname>
+  </Student>
+  <Student faculty="ФИТ">
+    <course>2</course>
+    <group>3</group>
+    <Name>Влад</Name>
+    <Surname>Качан</Surname>
+  </Student>
+</Students>

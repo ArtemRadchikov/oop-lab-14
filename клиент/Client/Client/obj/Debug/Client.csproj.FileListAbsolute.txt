@@ -1,0 +1,7 @@
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\bin\Debug\Client.exe.config
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\bin\Debug\Client.exe
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\bin\Debug\Client.pdb
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\obj\Debug\Client.exe
+F:\дз\ДЗ        2 курс\ООП\14\клиент\Client\Client\obj\Debug\Client.pdb

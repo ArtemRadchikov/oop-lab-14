@@ -1,0 +1,70 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:computerLab id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArrayOfGoods href="#ref-3"/>
+<counterOfProjector>true</counterOfProjector>
+</a1:computerLab>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="a1:Goods[5]" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a1:Technique id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<operationPeriod id="ref-9">11</operationPeriod>
+<owner xsi:null="1"/>
+<Goods_x002B_price>10000</Goods_x002B_price>
+<Goods_x002B_producingCountry id="ref-10">РБ</Goods_x002B_producingCountry>
+<Goods_x002B_name id="ref-11">Technique1</Goods_x002B_name>
+<Goods_x002B_catcategory>0</Goods_x002B_catcategory>
+<Goods_x002B_age>
+<age>0</age>
+</Goods_x002B_age>
+</a1:Technique>
+<a1:Technique id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<operationPeriod id="ref-12">12</operationPeriod>
+<owner xsi:null="1"/>
+<Goods_x002B_price>20000</Goods_x002B_price>
+<Goods_x002B_producingCountry href="#ref-10"/>
+<Goods_x002B_name id="ref-13">Technique2</Goods_x002B_name>
+<Goods_x002B_catcategory>0</Goods_x002B_catcategory>
+<Goods_x002B_age>
+<age>0</age>
+</Goods_x002B_age>
+</a1:Technique>
+<a1:Technique id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<operationPeriod id="ref-14">13</operationPeriod>
+<owner xsi:null="1"/>
+<Goods_x002B_price>30000</Goods_x002B_price>
+<Goods_x002B_producingCountry href="#ref-10"/>
+<Goods_x002B_name id="ref-15">Technique3</Goods_x002B_name>
+<Goods_x002B_catcategory>0</Goods_x002B_catcategory>
+<Goods_x002B_age>
+<age>0</age>
+</Goods_x002B_age>
+</a1:Technique>
+<a1:Technique id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<operationPeriod id="ref-16">14</operationPeriod>
+<owner xsi:null="1"/>
+<Goods_x002B_price>40000</Goods_x002B_price>
+<Goods_x002B_producingCountry href="#ref-10"/>
+<Goods_x002B_name id="ref-17">Technique4</Goods_x002B_name>
+<Goods_x002B_catcategory>0</Goods_x002B_catcategory>
+<Goods_x002B_age>
+<age>0</age>
+</Goods_x002B_age>
+</a1:Technique>
+<a1:Technique id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/oop_lab_14/14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<operationPeriod id="ref-18">15</operationPeriod>
+<owner xsi:null="1"/>
+<Goods_x002B_price>50000</Goods_x002B_price>
+<Goods_x002B_producingCountry href="#ref-10"/>
+<Goods_x002B_name id="ref-19">Technique5</Goods_x002B_name>
+<Goods_x002B_catcategory>0</Goods_x002B_catcategory>
+<Goods_x002B_age>
+<age>0</age>
+</Goods_x002B_age>
+</a1:Technique>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

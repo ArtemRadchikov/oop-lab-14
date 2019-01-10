@@ -1,0 +1,12 @@
+F:\дз\ДЗ        2 курс\ООП\14\14\14\obj\Debug\14.csprojAssemblyReference.cache
+F:\дз\ДЗ        2 курс\ООП\14\14\14\obj\Debug\14.csproj.CoreCompileInputs.cache
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\14.exe.config
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\14.exe
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\14.pdb
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\StreamJsonRpc.dll
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\Microsoft.VisualStudio.Validation.dll
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\Microsoft.VisualStudio.Validation.xml
+F:\дз\ДЗ        2 курс\ООП\14\14\14\bin\Debug\ru\StreamJsonRpc.resources.dll
+F:\дз\ДЗ        2 курс\ООП\14\14\14\obj\Debug\14.csproj.CopyComplete
+F:\дз\ДЗ        2 курс\ООП\14\14\14\obj\Debug\14.exe
+F:\дз\ДЗ        2 курс\ООП\14\14\14\obj\Debug\14.pdb

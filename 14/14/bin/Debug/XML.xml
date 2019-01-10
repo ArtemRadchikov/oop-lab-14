@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<computerLab xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfGoods>
+    <Goods xsi:type="Technique">
+      <Price>10000</Price>
+      <ProducingCountry>РБ</ProducingCountry>
+      <Name>Technique1</Name>
+      <OperationPeriod>11</OperationPeriod>
+    </Goods>
+    <Goods xsi:type="Technique">
+      <Price>20000</Price>
+      <ProducingCountry>РБ</ProducingCountry>
+      <Name>Technique2</Name>
+      <OperationPeriod>12</OperationPeriod>
+    </Goods>
+    <Goods xsi:type="Technique">
+      <Price>30000</Price>
+      <ProducingCountry>РБ</ProducingCountry>
+      <Name>Technique3</Name>
+      <OperationPeriod>13</OperationPeriod>
+    </Goods>
+    <Goods xsi:type="Technique">
+      <Price>40000</Price>
+      <ProducingCountry>РБ</ProducingCountry>
+      <Name>Technique4</Name>
+      <OperationPeriod>14</OperationPeriod>
+    </Goods>
+    <Goods xsi:type="Technique">
+      <Price>50000</Price>
+      <ProducingCountry>РБ</ProducingCountry>
+      <Name>Technique5</Name>
+      <OperationPeriod>15</OperationPeriod>
+    </Goods>
+  </ArrayOfGoods>
+</computerLab>

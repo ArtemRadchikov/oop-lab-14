@@ -1,0 +1,1 @@
+{"ArrayOfGoods":[{"__type":"Technique:#oop_lab_14"},{"__type":"Technique:#oop_lab_14"},{"__type":"Technique:#oop_lab_14"},{"__type":"Technique:#oop_lab_14"},{"__type":"Technique:#oop_lab_14"}],"counterOfProjector":true}
